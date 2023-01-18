@@ -1,5 +1,5 @@
 ---
-title: Henry Li-Heng Chang
+title: Henry Li-Heng Chang 張立恆
 role: "Problem solver using first-principles and computer programs. "
 avatar_filename: paintprof.png
 bio: I am interested in computational science, quantum computing, optimization,
